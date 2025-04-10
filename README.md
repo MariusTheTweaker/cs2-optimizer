@@ -1,4 +1,8 @@
 # cs2-optimizer
+📁 CS2 Tweaks - Windows Utility
+A lightweight Windows utility for optimizing and customizing your Counter-Strike 2 experience.
+Includes tweaks for performance, configs, visuals, and more.
+
 🔧 Features
 One-click CS2 config tweaks
 
@@ -19,6 +23,14 @@ Run the program (no install required)
 Follow the interface to apply desired tweaks
 
 Restart CS2 to see the changes
+
+📁 Notes
+
+Make sure CS2 is closed before applying tweaks
+
+Run as administrator if required
+
+All changes are reversible from within the app
 
 
 📜 License MIT License (or your preferred license)
