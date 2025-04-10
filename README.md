@@ -10,12 +10,15 @@ Launch options generator
 
 Easy-to-use GUI
 
-📁Notes
-Make sure CS2 is closed before applying tweaks
+📦 Installation
 
-Run as administrator if required
+Download CS2_Tweaks.exe
 
-All changes are reversible from within the app
+Run the program (no install required)
+
+Follow the interface to apply desired tweaks
+
+Restart CS2 to see the changes
 
 
 📜 License MIT License (or your preferred license)
